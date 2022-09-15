@@ -1,0 +1,21 @@
+.banner-img{
+    margin: 0 auto;
+    display: block;
+}
+a{
+    text-decoration: none ;
+    color: blue;
+     
+}
+.link-container{
+    text-align: center;
+}
+.product-img{
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+
+}
+.img-container{
+    margin-top: 20px;
+}
